@@ -4,18 +4,18 @@ Die custom_build.bin ist die Datei für den ESP32dev. Die Zusammenstellung kann 
 
 Hier ausgewählt:
 
-Quelle: Sound Reactive (atuline)
-Branch: dev (recommended) (WLED)
-MCU: ESP32dev
+Quelle: Sound Reactive (atuline);
+Branch: dev (recommended) (WLED);
+MCU: ESP32dev;
 
 
 Folgende Extras:
-  4 Line Display
-  Rotary Encounter UI
-  Multirelay
-  BME280
-  PIR Sensor Switch
-  Sensors To MQTT
+  4 Line Display;
+  Rotary Encounter UI;
+  Multirelay;
+  BME280;
+  PIR Sensor Switch;
+  Sensors To MQTT;
 
 
 
